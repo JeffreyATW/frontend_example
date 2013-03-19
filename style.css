@@ -1,4 +1,8 @@
 body {
-    color: red;
+    color: yellow;
     text-shadow: 0.1em 0.1em 0.05em black;
+}
+
+p {
+  font-size: 4em;
 }
