@@ -1,8 +1,14 @@
 body {
-    color: yellow;
-    text-shadow: 0.1em 0.1em 0.05em black;
+    color: blue;
+    
 }
 
-p {
-  font-size: 4em;
+h1 {
+  text-align: left;
+  font-size: 150%;
+  margin-bottom:-10px;
+  font-weight:bold;
+  margin-left:2px;
+  font-family:Sanchez;
 }
+
